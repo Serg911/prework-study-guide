@@ -29,11 +29,9 @@ ul {
     font-size: 20px;
 }
 
-CSS rule to the style sheet:
-
 p {
-  text-align: center;
-  font-size: 30px;
+    text-align: center;
+    font-size: 30px;
 }
 
 .card {
